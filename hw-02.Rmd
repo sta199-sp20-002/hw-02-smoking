@@ -1,0 +1,32 @@
+---
+title: "HW 02"
+subtitle: "Confounding and Simpson's Paradox"
+date: "due Wednesday, Feb 12 at 11:59p"
+output:
+  html_document: default 
+  pdf_document: default
+---
+
+```{r, warning = FALSE, message = FALSE}
+library(tidyverse)
+library(mosaicData)
+data(Whickham)
+```
+
+# Exercise 1
+
+Write your narrative here
+
+# Exercise 2
+
+Write your narrative here
+
+# Exercise 3
+
+And so on. When creating `R` chunks, don't forget to give them meaningful names.
+Finally, don't forget to follow the best practices for data visualization as
+presented by Dr. Monson last week.
+
+# Exercise 4
+
+...
